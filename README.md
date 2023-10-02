@@ -9,9 +9,9 @@
 
 ## Tecnologias que utilizo:
 <div style="display: inline_block"><br/>
-  <alt="Python" scr="https://www.google.com/search?q=icon+python&sca_esv=570043172&tbm=isch&sxsrf=AM9HkKnyTIlQ0zqag7f7gREb05YmdP6y3w:1696255041005&source=lnms&sa=X&ved=2ahUKEwjxkau5wteBAxWcrZUCHefuCoYQ_AUoAXoECAIQAw&biw=1366&bih=689&dpr=1#imgrc=qL-WVdd5xikuuM" />
-  <alt="Java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <alt="JavaScript" scr="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Python" scr="https://www.google.com/search?q=icon+python&sca_esv=570043172&tbm=isch&sxsrf=AM9HkKnyTIlQ0zqag7f7gREb05YmdP6y3w:1696255041005&source=lnms&sa=X&ved=2ahUKEwjxkau5wteBAxWcrZUCHefuCoYQ_AUoAXoECAIQAw&biw=1366&bih=689&dpr=1#imgrc=qL-WVdd5xikuuM" />
+  <img alt="Java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" scr="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   
 </div><br/>
 
